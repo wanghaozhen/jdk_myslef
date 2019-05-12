@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/code_string/code_string.iml" filepath="$PROJECT_DIR$/code_string/code_string.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdk_myslef.iml" filepath="$PROJECT_DIR$/jdk_myslef.iml" />
       <module fileurl="file://$PROJECT_DIR$/synchronized/synchronized.iml" filepath="$PROJECT_DIR$/synchronized/synchronized.iml" />
     </modules>
